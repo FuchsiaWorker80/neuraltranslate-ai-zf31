@@ -1,4 +1,4 @@
-# 
+# Personalizado NeuralTranslate guía. Descarga e instala con sincronización en la nube y instalación en un clic — rápido, seguro y fácil de usar.
 
 
 
